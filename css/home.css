@@ -6,6 +6,12 @@ p {
   color: gold;
 }
 
+ul {
+  color: gold;
+  background-color: ghostwhite;
+}
+
 h1 {
   color: ghostwhite;
+  text-align: center;
 }
